@@ -132,6 +132,9 @@ dmypy.json
 ### Vagrant Patch ###
 *.box
 
+### Visual Studio Code Workspace Settings###
+.vscode
+
 # End of https://www.gitignore.io/api/python,vagrant
 eb-package.zip
 static/
